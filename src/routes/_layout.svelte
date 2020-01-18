@@ -5,18 +5,18 @@
 </script>
 
 <style>
-	main {
-		position: relative;
-		max-width: 56em;
-		background-color: white;
-		padding: 2em;
-		margin: 0 auto;
-		box-sizing: border-box;
-	}
+
+h1 {
+	text-align: center;
+	margin: 0;
+	font-family: 'IBM Plex Mono';
+	padding-top: 20px;
+  font-size: 20vw;
+	line-height: .7;
+}
 </style>
 
+<h1>NANO4814</h1>
 <Nav {segment}/>
 
-<main>
-	<slot></slot>
-</main>
+<slot></slot>
