@@ -12,7 +12,6 @@ h1 {
 	padding-top: 20px;
   font-size: 20vw;
 	line-height: .7;
-	max-width: 1250px;
 }
 </style>
 
